@@ -46,7 +46,8 @@ cd AutoscriptXRAY
 # run main installer
 chmod +x setup.sh
 chmod +x uninstall.sh
-screen -S setup ./setup.sh
+screen -S setup ./setup.sh kalo stack gunakan
+./setup.sh saja
 ```
 ---
 
