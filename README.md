@@ -40,8 +40,8 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1
 sysctl -w net.ipv6.conf.default.disable_ipv6=1
 
 # clone the repos
-git clone https://github.com/znandev/AutoscriptXRAY.git
-cd AutoscriptXRAY
+git clone https://github.com/hadesphantom12/xrayscrip.git
+cd xrayscrip
 
 # run main installer
 chmod +x setup.sh
